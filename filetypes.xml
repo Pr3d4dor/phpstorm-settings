@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern="edef-database-mirror" type="PLAIN_TEXT" />
+      <mapping pattern="edef-configure" type="PLAIN_TEXT" />
+      <mapping pattern=".edef-pull-request" type="PLAIN_TEXT" />
+      <mapping pattern="edef-database-seed" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
