@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ces-database-backup" type="PLAIN_TEXT" />
       <mapping pattern="ces-issue-unassign" type="PLAIN_TEXT" />
+      <mapping pattern="iprop-app-deploy" type="PLAIN_TEXT" />
       <mapping pattern="ces-replace-variables" type="PLAIN_TEXT" />
       <mapping pattern="ces-app-setup" type="PLAIN_TEXT" />
       <mapping pattern="ces-test" type="PLAIN_TEXT" />
