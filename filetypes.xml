@@ -13,6 +13,7 @@
       <mapping pattern=".php_cs_config" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
