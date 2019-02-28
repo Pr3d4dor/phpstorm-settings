@@ -1,4 +1,5 @@
 <?php
+#parse("PHP File Header Sices.php")
 
 #if (${NAMESPACE})
 namespace ${NAMESPACE};

@@ -1,12 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern="edef-database-mirror" type="PLAIN_TEXT" />
-      <mapping pattern="edef-configure" type="PLAIN_TEXT" />
-      <mapping pattern=".edef-pull-request" type="PLAIN_TEXT" />
-      <mapping pattern="edef-database-seed" type="PLAIN_TEXT" />
+      <mapping pattern="ces-database-backup" type="PLAIN_TEXT" />
+      <mapping pattern="ces-issue-unassign" type="PLAIN_TEXT" />
+      <mapping pattern="iprop-app-deploy" type="PLAIN_TEXT" />
+      <mapping pattern="ces-replace-variables" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="ces-app-setup" type="PLAIN_TEXT" />
+      <mapping pattern="ces-test" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="berriart_apm.yml" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs_config" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

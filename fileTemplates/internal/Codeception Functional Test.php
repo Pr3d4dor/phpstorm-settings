@@ -1,4 +1,5 @@
 <?php
+#parse("PHP File Header Sices.php")
 
 #if (${TESTED_NAME} && ${NAMESPACE} && !${TESTED_NAMESPACE})
 use ${TESTED_NAME};
