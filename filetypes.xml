@@ -11,6 +11,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="berriart_apm.yml" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="iprop-ssh-homolog" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs_config" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
