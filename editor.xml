@@ -30,4 +30,7 @@
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />
     <option name="COLLAPSE_METHOD_BODY" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
