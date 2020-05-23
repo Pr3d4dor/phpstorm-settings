@@ -1,10 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="d4109c5f-b271-4502-970b-df1937dad03e" name="PHP 7.2" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="82a79574-4fec-49b8-8852-4307c5c49bef" name="PHP 7.4" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
